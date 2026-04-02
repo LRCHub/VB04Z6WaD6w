@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Bad Orangez",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-04-02T03:27:07.622671Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Orangez",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/01_Bad_Orangez_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Orangez",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Orangez_CreepyNuts.txt"
+    }
+  ]
+}
